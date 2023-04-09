@@ -3,6 +3,7 @@
 
 ## Live Sites
 * [Readme](https://insidepanzerclaws.github.io/Documentation/Readme/readme.htm)
+* [Editor](https://insidepanzerclaws.github.io/Documentation/Editor/index.htm)
 
 ## Contributing
 
