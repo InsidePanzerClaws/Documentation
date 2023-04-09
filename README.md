@@ -2,7 +2,7 @@
 ![Logo](logo.png)
 
 ## Live Sites
-* [Readme](https://InsidePanzerClaws.github.io/Documentation/Readme/index.htm)
+* [Readme](https://insidepanzerclaws.github.io/Documentation/Readme/readme.htm)
 
 ## Contributing
 
